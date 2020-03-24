@@ -1,0 +1,7 @@
+
+    -c, --complement：反选设定字符。也就是符合 SET1 的部份不做处理，不符合的剩余部份才进行转换
+    -d, --delete：删除指令字符
+    -s, --squeeze-repeats：缩减连续重复的字符成指定的单个字符
+    -t, --truncate-set1：削减 SET1 指定范围，使之与 SET2 设定长度相等
+    --help：显示程序用法信息
+    --version：显示程序本身的版本信息
